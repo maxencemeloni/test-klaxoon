@@ -1,6 +1,12 @@
 # test-klaxoon
 
-INSTRUCTIONS 
+**To start the app :**
+
+`$ npm i && npm start`
+
+---
+
+## INSTRUCTIONS 
 
 Cet exercice a pour but d’évaluer vos compétences en JS. 
 

@@ -1,0 +1,7 @@
+button {
+  cursor: pointer;
+  &.active,&:hover {
+    text-decoration: underline;
+  }
+  margin-right: 3px;
+}
